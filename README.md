@@ -26,7 +26,6 @@ Here I upload my practice codes, class assignments, and mini projects. 🚀
 - ✔ Portfolio Website  
 - ✔ Student Record Program (C language)  
 
-## 📊 GitHub Stats  
-![Mili's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mili0906&show_icons=true)
+## My email: milievishnoi09@gmail.com
 
 ### ✨ Thanks for visiting!
