@@ -1,38 +1,32 @@
-# Hi, I'm Mili 👋
-### 1st Semester College Student | Learning Programming & Web Development
+# Hi, I'm Mili 👋  
+
+### 🌱 1st Semester Student | Learning Programming & Web Development  
 
 Welcome to my GitHub profile!  
-I am currently in my 1st semester and learning the basics of programming and web development.  
-Here I upload my practice codes, class assignments, and small beginner projects. 🚀
+I am currently learning the basics of programming, web development, and problem-solving.  
+Here I upload my practice codes, class assignments, and mini projects. 🚀  
 
-## 🌱 What I'm Learning Right Now
-- **HTML** – basic structure of webpages  
-- **CSS** – simple styling & layouts  
-- **Java** – basic programs, loops, conditions  
-- **Python** – beginner-level problem solving  
-- **Git & GitHub** – just starting to learn 😄  
+## 🌿 What I'm Learning Right Now  
+- **HTML** – structure of webpages  
+- **CSS** – styling & layouts  
+- **C Language** – basic programming & logic building  
+- **Python (beginner)** – problem solving  
+- **Git & GitHub** – uploading code & learning version control  
 
-## 📚 My Goals
-- Improve coding concepts  
-- Build simple websites using HTML & CSS  
-- Create small projects like calculator, portfolio, etc.  
-- Learn Java & Python step-by-step  
-- Stay consistent and keep learning
+## 🎯 My Goals  
+- Build small beginner-friendly projects  
+- Improve my coding logic  
+- Learn JavaScript after HTML/CSS  
+- Create my personal portfolio website  
+- Become confident in programming ✨  
 
-## 🔧 Tools I Use
-- VS Code  
-- GitHub (beginner)  
-- Figma (just started)
+## 📚 Projects Coming Soon  
+- ✔ To-Do App  
+- ✔ Basic Calculator  
+- ✔ Portfolio Website  
+- ✔ Student Record Program (C language)  
 
-## 🗂️ What You Will Find in My Repositories
-- Class practice programs  
-- Basic Python & Java exercises  
-- HTML & CSS small projects  
-- Beginner-level experiments and learning code  
+## 📊 GitHub Stats  
+![Mili's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mili0906&show_icons=true)
 
-## 📬 Contact
-If you want to connect or collaborate, feel free to reach out!  
-📧 Email: milievishnoi09@gmail.com  
-
-Thanks for visiting my profile! 😊  
-More beginner projects coming soon ✨
+### ✨ Thanks for visiting!
